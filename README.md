@@ -63,7 +63,7 @@ The [Dataset](https://github.com/AnuLikithaImmadisetty/Fossil-Age-Estimation/blo
 ## Features 
 The Fossil Age Estimation project incorporates the following components:
 1. **🧪 Data Analysis**: Analyze fossil datasets to extract meaningful features for accurate age prediction.
-2. **🧠 Machine Learning Models**: Implement, train, and optimize various around 30 machine learning models to estimate the age of fossils.
+2. **🧠 Machine Learning Models**: Implement, train, and optimize various around 4 machine learning models to estimate the age of fossils.
 3. **📈 Evaluation Metrics**: Evaluate model performance using metrics like RMSE (Root Mean Squared Error), MAE (Mean Absolute Error), R² and Explained Variance.
 
 ## Tools and Technologies
