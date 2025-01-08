@@ -1,4 +1,4 @@
-# Fossil Age Estimation" 🌍🦴
+# Fossil Age Estimation 🌍🦴
 Welcome to the "Fossil Age Estimation" Repository! Here, we've explored around 4 machine learning models to predict fossil ages, utilizing a diverse set of geological and biological features! This project demonstrates the power of different machine learning techniques in estimating the age of fossils with remarkable precision, contributing to the understanding of Earth's ancient history.
 
 Dive in to discover the models, analyses, and insights that emerged from this fascinating exploration!
